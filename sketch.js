@@ -53,3 +53,5 @@ function readPosition(data){
 function showError(){
   console.log("Error in writing to the database");
 }
+//reading means fetching data from the database
+//updating/writing means you are updating data to the database
